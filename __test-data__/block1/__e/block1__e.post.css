@@ -1,3 +1,7 @@
 .block1__e {
     color: antiquewhite;
+
+    &_m1_v1 {
+        color: azure;
+    }
 }

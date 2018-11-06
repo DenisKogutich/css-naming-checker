@@ -1,3 +1,7 @@
+:root {
+    --var_name: 55px;
+}
+
 .block1 {
     color: red;
 
