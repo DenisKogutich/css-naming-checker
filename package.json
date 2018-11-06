@@ -1,0 +1,16 @@
+{
+  "name": "css-naming-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "precommit": "npm run lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "husky": "^1.1.3"
+  }
+}

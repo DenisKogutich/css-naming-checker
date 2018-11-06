@@ -1,0 +1,7 @@
+.block1 {
+    color: red;
+
+    &__elem {
+        font-size: 10px;
+    }
+}
